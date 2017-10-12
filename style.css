@@ -3,3 +3,14 @@ p {
 	font-style: italic;
 	font-weight: bold;
 }
+div {
+	display: block;
+	background: blue;
+	color: white;
+}
+#projects {
+	background: red;
+}
+.favorites {
+	background: green;
+}
